@@ -35,7 +35,7 @@ Pricing Strategies: "To prevent cancellations, hotels could refine their pricing
 
 Weekend Discounts: "Considering the higher cancellation ratio in resort hotels during weekends and holidays, offering reasonable discounts during these periods may help."
 
-January Campaigns: "In January, hotels could launch marketing campaigns with attractive offers to boost revenue during the peak cancellation period."
+January Campaigns: "In March, hotels could launch marketing campaigns with attractive offers to boost revenue during the peak cancellation period."
 
 Quality Improvement: "Focusing on enhancing hotel quality and services, particularly in Portugal, could reduce cancellation rates."
 
