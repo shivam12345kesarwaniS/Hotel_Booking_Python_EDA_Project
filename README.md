@@ -1,4 +1,4 @@
-# Hotel_Booking_Python_EDA_Project
+# Hotel_Booking_Python_EDA_Project 🏨📊
 
 Introduction:
 "During my data analysis project, I focused on addressing the high cancellation rates experienced by City Hotel and Resort Hotel. These cancellations were leading to reduced revenues and inefficient use of hotel rooms. My primary goal was to identify the key factors influencing hotel reservation cancellations and provide actionable insights to lower these rates."
@@ -41,4 +41,4 @@ Quality Improvement: "Focusing on enhancing hotel quality and services, particul
 
 
 Conclusion:
-"In conclusion, my analysis highlighted the critical factors affecting hotel reservation cancellations and provided actionable recommendations to address this issue. By implementing these strategies, hotels can improve their efficiency, reduce cancellations, and ultimately increase revenue."
+"In conclusion, my analysis highlighted the critical factors affecting hotel reservation cancellations and provided actionable recommendations to address this issue. By implementing these strategies, hotels can improve their efficiency, reduce cancellations, and ultimately increase revenue."🏨🛌🌟
