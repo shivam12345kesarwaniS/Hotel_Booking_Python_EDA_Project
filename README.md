@@ -6,7 +6,7 @@ Introduction:
 
 Research Questions:
 "To guide my analysis, I formulated these research questions:
-What factors influence hotel reservation cancellations?
+What factors that influence hotel reservation cancellations?
 How can we reduce hotel reservation cancellations?
 How can hotels make informed pricing and promotional decisions?"
 
